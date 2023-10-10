@@ -1,0 +1,11 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "description": "Functional JavaScript",
+  "main": "index.js",
+  "author": "sunkeydokey",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
+}
